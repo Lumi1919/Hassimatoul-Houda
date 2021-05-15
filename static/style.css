@@ -1127,7 +1127,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		height: auto;
 		min-height: 648px;
 		margin:70px auto;
-		background:url('/static/images/mac.png') center center no-repeat;
+		background-image:url('/static/images/mac.png') center center no-repeat;
 		background-size:100%;
 	}
 
@@ -1137,7 +1137,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	}
 	
 	#fun-acts{
-		background:#333 url('static/images/bgd/background5.jpg') repeat;
+		background-image:#333 url('static/images/bgd/background5.jpg') repeat;
 	}
 
 
