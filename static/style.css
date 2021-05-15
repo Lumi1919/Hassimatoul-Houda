@@ -756,7 +756,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 /* Services */
 
 	#services{
-		background:url('static/images/parallax/1.jpg') top center fixed;
+		background:top center fixed;
 		padding:55px 0;
 		overflow: hidden;
 	}
@@ -911,7 +911,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	}
 
 	.testimonials{
-		background: url('/static/images/parallax/2.jpg') center center fixed;
+		background: center center fixed;
 		padding: 70px 0 70px;
 		text-align: center;
 		overflow: hidden;
