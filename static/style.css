@@ -513,7 +513,6 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		display: block;
 		width:36px;
 		height:81px;
-		background:url('/static/images/slider-arrows.png');
 		opacity:0;
 		-webkit-transition: all 0.5s;
 		-moz-transition: all 0.5s;
@@ -971,7 +970,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		opacity: 1;
 		width:26px;
 		height: 26px;
-		background:url('/static/images/testimonial-controls.png');
+		background-image:url('/static/images/testimonial-controls.png');
 	}
 
 	.testimonials .flex-direction-nav a:before{
