@@ -15,7 +15,7 @@ class Arif(models.Model):
     nom = models.CharField(max_length=255, null=True, blank=True)
     adresse = models.CharField(max_length=255, null=True, blank=True)
     numero = models.CharField(max_length=12, null=True, blank=True)
-    photo = models.ImageField(upload_to='static', null=True, blank=True)
+    photo = models.ImageField(upload_to='media', null=True, blank=True)
 
     def __str__(self):
         return self.nom
